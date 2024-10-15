@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Louis Moheymani</h1>
+<h1 align="center">Hi 👋, I'm Louis</h1>
 <h3 align="center">A passionate software engineer from Paris</h3>
 
 - 🔭 I’m currently working on [ft_linear_regression](https://github.com/lmoheyma/ft_linear_regression)
