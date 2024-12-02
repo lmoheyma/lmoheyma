@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ft_linear_regression<br>🌱 I’m currently learning C# and ASP.NET
+🔭 I’m currently working on TokenizArt<br>🌱 I’m currently learning ASP.NET
 
 
 # 💻 Tech Stack:
