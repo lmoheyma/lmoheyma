@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm louis</h1>
-<h3 align="center">Software engineer from France passionate about Artificial Intelligence</h3>
+<h3 align="center">Software Engineer from France passionate about Artificial Intelligence</h3>
 
 - 🔭 I’m currently working on [Inception Of Things](https://github.com/lmoheyma/inception-of-things)
 
