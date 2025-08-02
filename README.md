@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm louis</h1>
 <h3 align="center">Software Engineer from France passionate about Artificial Intelligence</h3>
 
-- 🔭 I’m currently working on [Inception Of Things](https://github.com/lmoheyma/inception-of-things)
-
-- 🌱 I’m currently learning **LangChain, Pinecone and Airbyte**
-
 - 📫 How to reach me **lmoheyma@student.42.fr**
 
 <p align="left">
