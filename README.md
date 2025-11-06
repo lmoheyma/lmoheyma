@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm louis</h1>
-<h3 align="center">Software Engineer from France passionate about Artificial Intelligence</h3>
+<h3 align="center">AI Engineer</h3>
 
 - 📫 How to reach me **lmoheyma@student.42.fr**
+- 💼 ![Portofolio](https://lmoheyma.github.io)
 
 <p align="left">
 </p>
