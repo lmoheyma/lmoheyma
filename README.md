@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer</h3>
 
 - 📫 How to reach me **lmoheyma@student.42.fr**
-- 💼 [Portofolio](https://lmoheyma.github.io)
+- <a href="https://lmoheyma.github.io/" target="_blank">💼 Portofolio</a>
 
 <p align="left">
 </p>
