@@ -7,9 +7,6 @@
   <a href="https://lmoheyma.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
-  <a href="mailto:louismoheymani@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 <h2 align="center"> <img src="/title1.png" width="25"/> About  me </h2>
