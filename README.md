@@ -1,4 +1,3 @@
-<br>
 <h2 align="center"> <img src="/title1.png" width="25"/> About  me </h2>
 
 <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
