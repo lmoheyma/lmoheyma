@@ -1,6 +1,18 @@
-<img src="/banner.png" alt="Profile banner">
+<br>
+<h2 align="center"> <img src="/title1.png" width="25"/> About  me </h2>
 
-<p align="center">
+<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
+<br/>
+
+<p>
+  Hello there! 👋<br>
+
+  I'm <b> Louis Moheymani </b>, a Computer Science student passionate about Artificial Intelligence, Machine Learning and software development. I enjoy building intelligent applications and experimenting with new technologies, especially around LLMs, backend development and data-driven systems.
+  
+  Currently, I'm working on several fun and ambitious projects to improve my skills in Python, AI engineering, cloud technologies and modern software architectures.
+</p>
+<br>
+<p align="left">
   <a href="https://www.linkedin.com/in/louis-moheymani" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -9,22 +21,7 @@
   </a>
 </p>
 
-<h2 align="center"> <img src="/title1.png" width="25"/> About  me </h2>
 
-<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
-<br/>
-
-<p>
-  Hello there!<br>
-
-  I'm <b> Louis Moheymani </b>, a Computer Science student passionate about Artificial Intelligence, Machine Learning and software development. I enjoy building intelligent applications and experimenting with new technologies, especially around LLMs, backend development and data-driven systems.
-  
-  Currently, I'm working on several fun and ambitious projects to improve my skills in Python, AI engineering, cloud technologies and modern software architectures.
-</p>
-
-<br/>
-
-<br/>
 <br/>
 <h2 align="center"> <img src="/title2.png" width="25"/> Technologies </h2>
 
