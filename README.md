@@ -30,9 +30,7 @@
 
 <div align="center">
 
-[![Skills1](https://skillicons.dev/icons?i=azure,gcp,py,ts,bash,c,cs,cpp&theme=dark)](https://skillicons.dev)   
-[![Skills2](https://skillicons.dev/icons?i=linux,git,gitlab,docker,kubernetes,fastapi,react,nextjs&theme=dark)](https://skillicons.dev)     
-[![Skills3](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,dotnet,postgres,supabase,elasticsearch&theme=dark)](https://skillicons.dev)    
+[![Skills](https://skillicons.dev/icons?i=azure,gcp,py,ts,bash,c,cs,cpp,linux,git,gitlab,docker,kubernetes,fastapi,react,nextjs,pytorch,tensorflow,sklearn,opencv,dotnet,postgres,supabase,elasticsearch&theme=dark&perline=12)](https://skillicons.dev)   
 
 </div>
 
