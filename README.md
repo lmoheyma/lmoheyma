@@ -6,7 +6,7 @@
 <p>
   Hello there! 👋<br>
 
-  I'm <b> Louis Moheymani </b>, a Computer Science student passionate about Artificial Intelligence, Machine Learning and software development. I enjoy building intelligent applications and experimenting with new technologies, especially around LLMs, backend development and data-driven systems.
+  I'm <b> Louis Moheymani </b>, a Software Engineer passionate about Artificial Intelligence, Machine Learning and software development. I enjoy building intelligent applications and experimenting with new technologies, especially around LLMs, backend development and data-driven systems.
   
   Currently, I'm working on several fun and ambitious projects to improve my skills in Python, AI engineering, cloud technologies and modern software architectures.
 </p>
