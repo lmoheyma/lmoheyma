@@ -6,7 +6,7 @@
 <p>
   Hello there! 👋<br>
 
-  I'm <b> Louis Moheymani </b>, a Software Engineer passionate about Artificial Intelligence, Machine Learning and software development. I enjoy building intelligent applications and experimenting with new technologies, especially around LLMs, backend development and data-driven systems.
+  I'm <b> Louis </b>, a Software Engineer passionate about Artificial Intelligence, Machine Learning and software development. I enjoy building intelligent applications and experimenting with new technologies, especially around LLMs, backend development and data-driven systems.
   
   Currently, I'm working on several fun and ambitious projects to improve my skills in Python, AI engineering, cloud technologies and modern software architectures.
 </p>
@@ -31,9 +31,3 @@
 </div>
 
 <br/>
-
-<h2 align="center""> <img src="/title3.png" width="25"/> Statistics </h2>
-<div align = "center"> 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lmoheyma&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
-
-</div>
